@@ -1,0 +1,36 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# PyCharm project files
+.idea/
+
+# VSCode (caso use em paralelo)
+.vscode/
+
+# MacOS files
+.DS_Store
+
+# Log files
+*.log
+
+# Environment variables
+.env
+.env.*
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Cache
+*.cache
+*.bak
+*.swp
+
+# Output files
+traduzido.txt
